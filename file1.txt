@@ -1,2 +1,7 @@
-#My First .txt file
+My First .txt file
 again i am in master branch
+
+My First .txt file
+now i am in dev branch
+
+merge successful...!
